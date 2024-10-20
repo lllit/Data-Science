@@ -1,3 +1,6 @@
+aiohappyeyeballs==2.4.3
+aiohttp==3.10.10
+aiosignal==1.3.1
 anyio==4.6.2.post1
 argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
@@ -6,6 +9,7 @@ asttokens==2.4.1
 async-lru==2.0.4
 attrs==24.2.0
 babel==2.16.0
+backoff==1.11.1
 beautifulsoup4==4.12.3
 bleach==6.1.0
 certifi==2024.8.30
@@ -25,6 +29,7 @@ executing==2.1.0
 fastjsonschema==2.20.0
 fonttools==4.54.1
 fqdn==1.5.1
+frozenlist==1.4.1
 h11==0.14.0
 httpcore==1.0.6
 httpx==0.27.2
@@ -59,6 +64,7 @@ MarkupSafe==3.0.1
 matplotlib==3.9.2
 matplotlib-inline==0.1.7
 mistune==3.0.2
+multidict==6.1.0
 nbclient==0.10.0
 nbconvert==7.16.4
 nbformat==5.10.4
@@ -77,6 +83,7 @@ platformdirs==4.3.6
 plotly==5.24.1
 prometheus_client==0.21.0
 prompt_toolkit==3.0.48
+propcache==0.2.0
 psutil==6.0.0
 pure_eval==0.2.3
 pycparser==2.22
@@ -90,6 +97,7 @@ pywin32==307
 pywinpty==2.0.13
 PyYAML==6.0.2
 pyzmq==24.0.1
+redis==5.1.1
 referencing==0.35.1
 requests==2.32.3
 rfc3339-validator==0.1.4
@@ -105,6 +113,8 @@ six==1.16.0
 sniffio==1.3.1
 sortedcontainers==2.4.0
 soupsieve==2.6
+spotify==0.10.2
+spotipy==2.24.0
 stack-data==0.6.3
 tenacity==9.0.0
 terminado==0.18.1
@@ -126,3 +136,4 @@ webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.13
 wsproto==1.2.0
+yarl==1.15.5
